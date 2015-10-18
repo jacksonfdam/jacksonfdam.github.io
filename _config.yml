@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jacksonfdam.github.io
+title: Jackson F. de A. Mafra
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
